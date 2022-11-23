@@ -23,7 +23,7 @@ Work experience
 * Associate Professor,  Department of Mathematics, Michigan State University, 2016-2021.
 * Assistant Professor, Department of Mathematics, Michigan State University, 2011-2016.
 * Postdoc, University of Texas at Austin, 2007-2011.
-    * Mentor: Professor [Irene M. Gamba](https://web.ma.utexas.edu/users/gamba/))
+    * Mentor: Professor [Irene M. Gamba](https://web.ma.utexas.edu/users/gamba/)
 
 Awards and grants
 ======
@@ -44,25 +44,15 @@ Completed
 * PI, NSF DMS-1016001/1217563, 2010-2014.
 
 
+Research Group
+======
+Current members
+* [Zhichao Peng](https://zhichaopengmath.github.io/) (postdoc, 2020-)
+* [Andres Galindo Olarte](https://sites.google.com/site/andresgalindoolarte/home?authuser=0) (Ph.D. student, 2019-).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Past members
+* Kai Huang (Ph.D. 2022)
+* 
+
+
