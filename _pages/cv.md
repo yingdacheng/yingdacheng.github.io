@@ -18,24 +18,32 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Professor, Department of Mathematics and Department of Computational Mathematics, Science and Engineering, Michigan State University, 2021-.
+* Associate Professor,  Department of Computational Mathematics, Science and Engineering,  Michigan State University, 2017-2021.
+* Associate Professor,  Department of Mathematics, Michigan State University, 2016-2021.
+* Assistant Professor, Department of Mathematics, Michigan State University, 2011-2016.
+* Postdoc, University of Texas at Austin, 2007-2011.
+    * Mentor: Professor [Irene M. Gamba](https://web.ma.utexas.edu/users/gamba/))
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Awards and grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Current
+
+* Co-PI, DOE MMICC [CHaRMNET](https://charmnet-mmicc.github.io/) , 2022-2027.
+* Co-PI, NSF DGE-2152014, Harnessing the data revolution to enable predictive multi-scale modeling across STEM, 2022-2027.
+* PI, NSF DMS-2011838, Development of adaptive sparse grid discontinuous Galerkin methods for multiscale kinetic simulations in plasmas, 2020-2023.
+* Co-PI, NSF AST-2008004, A data-driven approach to multiscale methods for scalable transport in neutron star mergers and complex plasmas, 2020-2023.
+
+Completed
+
+* **Simons Fellow**, 2018.
+* PI, NSF DMS-1720023, 2017-2020.
+* PI, **NSF CAREER Award** (DMS-1453661), 2015-2020.
+* PI, NSF DMS-1318186, 2013-2016.
+* Co-PI, AFOSR FA9550-12-1-0343, 2012-2017.
+* PI, NSF DMS-1016001/1217563, 2010-2014.
+
+
 
 Publications
 ======
