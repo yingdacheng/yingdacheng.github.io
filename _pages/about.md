@@ -12,6 +12,12 @@ Hello, I am a professor at [Department of Mathematics](https://math.msu.edu/) an
 
 *I am currently recruiting highly motivated Ph.D. students and postdocs. Please send me an email if you are interested.*
 
+
+
+
+
+
+
 My contact information is below.
 
 Office: D316 Wells Hall  
