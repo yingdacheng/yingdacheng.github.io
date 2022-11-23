@@ -17,6 +17,7 @@ My contact information is below.
 Office: D316 Wells Hall  
 Phone: 517-353-4671  
 Email: ycheng at msu.edu (preferred way of contact)
+
 Mailing address:
 
 Department of Mathematics
