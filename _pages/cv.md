@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Special Class for the Gifted Young, University of Science and Technology of China, 2003.
+* M.S. in Applied Mathematics, Brown University, 2004.
+* Ph.D  in Applied Mathematics, Brown University, 2007.
+    * Advisor: Professor [Chi-Wang Shu](https://www.dam.brown.edu/people/shu/)
 
 Work experience
 ======
