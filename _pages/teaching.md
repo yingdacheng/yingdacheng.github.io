@@ -10,14 +10,15 @@ author_profile: true
 
 Courses
 ======
-FS22: MTH 314 Matrix algebra with computational applications.
+* FS22: MTH 314 Matrix algebra with computational applications.
 
-SS22: CMSE201-005  Computational modeling and data analysis I   
+* SS22: CMSE201-005  Computational modeling and data analysis I   
 
-SS21: MTH 950 Numerical methods for partial differential equations I.    
+* SS21: MTH 950 Numerical methods for partial differential equations I.    
 
-FS20: MTH 451 Numerical analysis I. 
-      CMSE202-001 Computational modeling tools and techniques.
+* FS20: MTH 451 Numerical analysis I. 
+      
+       CMSE202-001 Computational modeling tools and techniques.
 
 FS19: MTH 340 Ordinary differential equations. 
       CMSE201-004 Introduction to computational modeling and data analysis.
