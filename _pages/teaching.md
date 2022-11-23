@@ -18,38 +18,36 @@ Courses
 
 * FS20: 
     - CMSE202-001 Computational modeling tools and techniques.
-    -  MTH 451 Numerical analysis I.
-      
-- First level
-    - Second level
-        - Third level
-            - Fourth level
+    - MTH 451 Numerical analysis I.
 
-FS19: MTH 340 Ordinary differential equations. 
-      CMSE201-004 Introduction to computational modeling and data analysis.
+* FS19: 
+    - MTH 340 Ordinary differential equations. 
+    - CMSE201-004 Introduction to computational modeling and data analysis.
 
-SS19: CMSE 890-001 Fluid-based simulation methods.
+* SS19: CMSE 890-001 Fluid-based simulation methods.
 
-FS17: MTH 132 Calculus I (sec. 22, 37).
+* FS17: MTH 132 Calculus I (sec. 22, 37).
 
-SS17: MTH 852 Numerical methods for ordinary differential equations.  MTH 950 Numerical methods for partial differential equations I.
+* SS17:
+    - MTH 852 Numerical methods for ordinary differential equations. 
+    - MTH 950 Numerical methods for partial differential equations I.
 
-SS16: MTH 852 Numerical methods for ordinary differential equations.
+* SS16: MTH 852 Numerical methods for ordinary differential equations.
 
-FS15: MTH 133 Calculus II.
+* FS15: MTH 133 Calculus II.
 
-SS15: MTH 852 Numerical methods for ordinary differential equations.
+* SS15: MTH 852 Numerical methods for ordinary differential equations.
 
-FS14: MTH 133 Calculus II.
+* FS14: MTH 133 Calculus II.
 
-SS14: MTH 851 Numerical analysis II.
+* SS14: MTH 851 Numerical analysis II.
 
-FS13: MTH 852 Numerical analysis III.
+* FS13: MTH 852 Numerical analysis III.
 
-SS13: MTH 851 Numerical analysis II.
+* SS13: MTH 851 Numerical analysis II.
 
-FS12: MTH 995 Numerical methods for hyperbolic conservations laws.
+* FS12: MTH 995 Numerical methods for hyperbolic conservations laws.
 
-SS12: MTH 851 Numerical analysis II.
+* SS12: MTH 851 Numerical analysis II.
 
-FS11: MTH 133 Calculus II.
+* FS11: MTH 133 Calculus II.
