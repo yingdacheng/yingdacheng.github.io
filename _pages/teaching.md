@@ -17,8 +17,8 @@ Courses
 * SS21: MTH 950 Numerical methods for partial differential equations I.    
 
 * FS20: 
-        * CMSE202-001 Computational modeling tools and techniques.
-        *  MTH 451 Numerical analysis I.
+    - CMSE202-001 Computational modeling tools and techniques.
+    -  MTH 451 Numerical analysis I.
       
 - First level
     - Second level
