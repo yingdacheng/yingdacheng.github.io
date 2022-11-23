@@ -18,7 +18,7 @@ Hello, I am a professor at [Department of Mathematics](https://math.msu.edu/) an
 
 
 
-My contact information is below.
+# Contact information
 
 Office: D316 Wells Hall  
 Phone: 517-353-4671  
