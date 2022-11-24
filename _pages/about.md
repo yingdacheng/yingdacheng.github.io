@@ -26,11 +26,10 @@ Office: D316 Wells Hall
 Phone: 517-353-4671  
 Email: ycheng at msu.edu (preferred way of contact)
 
-Mailing address:
-Department of Mathematics
-
-Michigan State University
- 619 Red Cedar Rd.
- East Lansing, MI 48824
+Mailing address:\
+Department of Mathematics\
+Michigan State University\
+619 Red Cedar Rd.\
+East Lansing, MI 48824
 
 
