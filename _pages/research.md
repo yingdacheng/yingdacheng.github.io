@@ -156,4 +156,10 @@ Preprints
 
 3. Z. Peng, Y. Chen, Y. Cheng and F. Li, A micro-macro decomposed reduced basis method for the time-dependent radiative transfer equation, 2022.
 
+  <br>
+
+Software
+======
+[Github package for adaptive sparse grid/multiresolution DG method](https://github.com/JuntaoHuang/adaptive-multiresolution-DG)
+
 
