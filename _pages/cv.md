@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -43,6 +43,7 @@ Completed
 * Co-PI, AFOSR FA9550-12-1-0343, 2012-2017.
 * PI, NSF DMS-1016001/1217563, 2010-2014.
 
+\\
 
 Research Group
 ======
