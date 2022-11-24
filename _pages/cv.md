@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Here is my Full [CV](files/cv.pdf)
+
 
 
 Education
