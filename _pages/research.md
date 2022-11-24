@@ -142,3 +142,18 @@ Journal Publications
 54. M. Lyu, V. Bokil, Y. Cheng and F. Li, Energy stable nodal DG methods for Maxwell's equations of mixed-order form in nonlinear optical media, Communications on Applied Mathematics and Computation, to appear.
 
 55. J. Huang, Y. Cheng, A. J. Christlieb and L. F. Roberts, Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds, Journal of Scientific Computing, to appear.
+
+56. J. Huang, Y. Cheng, A. Christlieb, L. Roberts and W.-A. Yong, Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures, SIAM Journal on Multiscale Modeling and Simulation, to appear. 
+
+  <br>
+
+Preprints
+======
+
+1. A. Galindo-Olarte, J. Huang, J. Ryan and Y. Cheng, Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations,   2022.
+
+2. J. Huang, W. Guo and Y. Cheng, Adaptive sparse grid discontinuous Galerkin method: review and software implementation, 2022.
+
+3. Z. Peng, Y. Chen, Y. Cheng and F. Li, A micro-macro decomposed reduced basis method for the time-dependent radiative transfer equation, 2022.
+
+
