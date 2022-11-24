@@ -26,6 +26,8 @@ Numerical analysis, scientific computing, data-driven modeling and computation
 
   [Google scholar profile](https://scholar.google.com/citations?user=-Md94EYAAAAJ&hl=en)
   
+  [Arxiv papers](https://arxiv.org/search/?query=yingda+cheng&searchtype=all&source=header)
+  
   <br>
 
 Journal Publications
@@ -107,36 +109,36 @@ Journal Publications
 
 38. Y. Jiang, P. Sakkaplangkul, V. A. Bokil, Y. Cheng and F. Li, Dispersion analysis of finite difference and discontinuous Galerkin schemes for Maxwell's equations in linear Lorentz media, Journal of Computational Physics,  Journal of Computational Physics, v394 (2019), pp. 100-135.
 
-Z. Peng, V. Bokil, Y. Cheng and F. Li, Asymptotic and positivity preserving methods for Kerr-Debye model with Lorentz dispersion in one dimension, Journal of Computational Physics, v402 (2020), pp. 109101.
+39. Z. Peng, V. Bokil, Y. Cheng and F. Li, Asymptotic and positivity preserving methods for Kerr-Debye model with Lorentz dispersion in one dimension, Journal of Computational Physics, v402 (2020), pp. 109101.
 
- M. Jiao, Y. Cheng, Y. Liu and M. Zhang, Central discontinuous Galerkin methods for the generalized Korteweg-de Vries equations, Communications in Computational Physics, v28 (2020), No. 3, pp. 927-966.
+40. M. Jiao, Y. Cheng, Y. Liu and M. Zhang, Central discontinuous Galerkin methods for the generalized Korteweg-de Vries equations, Communications in Computational Physics, v28 (2020), No. 3, pp. 927-966.
 
- D. Appeleo, V. Bokil, Y. Cheng and F. Li, Energy stable SBP-FDTD methods for Maxwell-Duffing models in nonlinear photonics, IEEE Journal on Multiscale and Multiphysics Computational Techniques , v4 (2019), pp. 329-336.
+41. D. Appeleo, V. Bokil, Y. Cheng and F. Li, Energy stable SBP-FDTD methods for Maxwell-Duffing models in nonlinear photonics, IEEE Journal on Multiscale and Multiphysics Computational Techniques , v4 (2019), pp. 329-336.
 
- A. Chen, Y. Cheng, Y. Liu and M. Zhang, Superconvergence of ultra-weak discontinuous Galerkin methods for the linear Schrodinger equation in one dimension, Journal of Scientific Computing, v82 (2020), pp. 1-44.
+42. A. Chen, Y. Cheng, Y. Liu and M. Zhang, Superconvergence of ultra-weak discontinuous Galerkin methods for the linear Schrodinger equation in one dimension, Journal of Scientific Computing, v82 (2020), pp. 1-44.
 
-Z. Peng, Y. Cheng, J.-M. Qiu and F. Li, Stability-enhanced AP IMEX-LDG schemes for linear kinetic transport equations under a diffusive scaling, Journal of Computational Physics, v415 (2020), pp. 109485.
+43. Z. Peng, Y. Cheng, J.-M. Qiu and F. Li, Stability-enhanced AP IMEX-LDG schemes for linear kinetic transport equations under a diffusive scaling, Journal of Computational Physics, v415 (2020), pp. 109485.
 
- J. Huang and Y. Cheng, An adaptive multiresolution discontinuous Galerkin method with artificial viscosity for scalar hyperbolic conservation laws in multidimensions, SIAM Journal on Scientific Computing , v42 (2020), A2943–A2973.
+44. J. Huang and Y. Cheng, An adaptive multiresolution discontinuous Galerkin method with artificial viscosity for scalar hyperbolic conservation laws in multidimensions, SIAM Journal on Scientific Computing , v42 (2020), A2943–A2973.
 
- Z. Tao, Y. Jiang and Y. Cheng, An adaptive high-order piecewise polynomial based sparse grid collocation method with applications, Journal of Computational Physics , v43 (2021), pp. 109770.
+45. Z. Tao, Y. Jiang and Y. Cheng, An adaptive high-order piecewise polynomial based sparse grid collocation method with applications, Journal of Computational Physics , v43 (2021), pp. 109770.
 
-J. Huang, Y. Liu, W. Guo, Z. Tao and Y. Cheng, An adaptive multiresolution interior penalty discontinuous Galerkin method for wave equations in second order form, Journal of Scientific Computing, to appear.
+46. J. Huang, Y. Liu, W. Guo, Z. Tao and Y. Cheng, An adaptive multiresolution interior penalty discontinuous Galerkin method for wave equations in second order form, Journal of Scientific Computing, to appear.
 
- Z. Tao, J. Huang, Y. Liu, W. Guo and Y. Cheng, An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations, Communications on Applied Mathematics and Computation (Special issue on discontinuous Galerkin methods), to appear.
+47. Z. Tao, J. Huang, Y. Liu, W. Guo and Y. Cheng, An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations, Communications on Applied Mathematics and Computation (Special issue on discontinuous Galerkin methods), to appear.
 
-Z. Peng, Y. Cheng, J.-M. Qiu and F. Li, Stability-enhanced AP IMEX1-LDG method: energy-based stability and rigorous AP property, SIAM Journal on Numerical Analysis, to appear.
+48. Z. Peng, Y. Cheng, J.-M. Qiu and F. Li, Stability-enhanced AP IMEX1-LDG method: energy-based stability and rigorous AP property, SIAM Journal on Numerical Analysis, to appear.
 
-W. Guo, J. Huang, Z. Tao and Y. Cheng, An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions, Journal of Computational Physics, Journal of Computational Physics, v436 (2021), pp. 110294.
+49. W. Guo, J. Huang, Z. Tao and Y. Cheng, An adaptive sparse grid local discontinuous Galerkin method for Hamilton-Jacobi equations in high dimensions, Journal of Computational Physics, Journal of Computational Physics, v436 (2021), pp. 110294.
 
-M. Lyu, V. Bokil, Y. Cheng and F. Li, Energy stable nodal discontinuous Galerkin methods for nonlinear Maxwell's equations in multi-dimensions, Journal of Scientific Computing, to appear.
+50. M. Lyu, V. Bokil, Y. Cheng and F. Li, Energy stable nodal discontinuous Galerkin methods for nonlinear Maxwell's equations in multi-dimensions, Journal of Scientific Computing, to appear.
 
-J. Huang, Y. Liu, Y. Liu, Z. Tao and Y. Cheng, A class of adaptive multiresolution ultra-weak discontinuous Galerkin methods for some nonlinear dispersive wave equations, SIAM Journal on Scientific Computing, to appear.
+51. J. Huang, Y. Liu, Y. Liu, Z. Tao and Y. Cheng, A class of adaptive multiresolution ultra-weak discontinuous Galerkin methods for some nonlinear dispersive wave equations, SIAM Journal on Scientific Computing, to appear.
 
- J. Huang, Y. Cheng, A. J. Christlieb and L. Roberts, Machine learning moment closure models for the radiative transfer equation I: directly learning a gradient based closure, Journal of Computational Physics, to appear.
+52. J. Huang, Y. Cheng, A. J. Christlieb and L. Roberts, Machine learning moment closure models for the radiative transfer equation I: directly learning a gradient based closure, Journal of Computational Physics, to appear.
 
- Z. Peng, Y. Chen, Y. Cheng and F. Li, A reduced basis method for radiative transfer equation, Journal of Scientific Computing (Special issue on model order reduction), to appear. Highlighted on NSF Math Institute website
+53. Z. Peng, Y. Chen, Y. Cheng and F. Li, A reduced basis method for radiative transfer equation, Journal of Scientific Computing (Special issue on model order reduction), to appear. Highlighted on NSF Math Institute website
 
-M. Lyu, V. Bokil, Y. Cheng and F. Li, Energy stable nodal DG methods for Maxwell's equations of mixed-order form in nonlinear optical media, Communications on Applied Mathematics and Computation, to appear.
+54. M. Lyu, V. Bokil, Y. Cheng and F. Li, Energy stable nodal DG methods for Maxwell's equations of mixed-order form in nonlinear optical media, Communications on Applied Mathematics and Computation, to appear.
 
-J. Huang, Y. Cheng, A. J. Christlieb and L. F. Roberts, Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds, Journal of Scientific Computing, to appear.
+55. J. Huang, Y. Cheng, A. J. Christlieb and L. F. Roberts, Machine learning moment closure models for the radiative transfer equation III: enforcing hyperbolicity and physical characteristic speeds, Journal of Scientific Computing, to appear.
