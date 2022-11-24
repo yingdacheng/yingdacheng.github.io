@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hello, I am a professor at [Department of Mathematics](https://math.msu.edu/) and [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu/), Michigan State University. Here is my Full [CV](files/cv.pdf)
+Hello, I am a professor at [Department of Mathematics](https://math.msu.edu/) and [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu/), Michigan State University. Here is my Full [CV](files/cv.pdf).
 
 My area of research is scientific computing, applied mathematics and data-driven modeling and computation. We are interested in using modern data-driven, reduced order modeling and classical numerical analysis as tools to simulate highly complex and high dimensional multiscale phenonmena arising from science and engineering. 
 
