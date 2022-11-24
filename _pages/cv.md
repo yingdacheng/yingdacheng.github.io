@@ -54,6 +54,22 @@ Current members
 
 Past members
 * Kai Huang (Ph.D. 2022)
-* 
+   * Thesis title: Sparse grid discontinuous Galerkin methods for nonlinear optics and mathematical modeling of asynchronous data flow in parallel computers.
+
+* Anqi Chen (Ph.D. 2019)
+
+      Thesis title: On superconvergent discontinuous Galerkin methods for Schrodinger equations and sparse grid central discontinuous Galerkin method.
+
+       Zixuan Wang (Ph.D. 2015)
+
+       Thesis title: Discontinuous Galerkin methods for Hamilton-Jacobi equations and high-dimensional elliptic equations.
+
+Former postdocs
+
+     Juntao Huang (2018-2022), Zhanjing Tao (2016-2019), Puttha Sakkaplangkul (2017-2018), Xinghui Zhong (2012-2014).
+
+Supervised undergraduate students
+
+       Mingxiu Sui (Fall 2014), Ying Lu (Spring 2015), Zhaoyang Fu, Brad Yurgens (Spring 2016).
 
 
