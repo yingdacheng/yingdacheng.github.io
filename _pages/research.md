@@ -12,9 +12,9 @@ Research Interests
 ======
 Numerical analysis, scientific computing, data-driven modeling and computation
 
--Discontinuous Galerkin finite element methods.
+* Discontinuous Galerkin finite element methods.
 
--Deterministic numerical methods for kinetic equations.
+* Deterministic numerical methods for kinetic equations.
 
 -Sparse grid methods for high-dimensional PDEs. 
 
