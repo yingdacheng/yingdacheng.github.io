@@ -67,7 +67,7 @@ Former Ph.D. students
 
 Former postdocs
 * Juntao Huang (2018-2022), Currently: Assistant Professor, Texas Tech University.
-* Zhanjing Tao (2016-2019), Currently: Associate Professor, Texas Tech University.
+* Zhanjing Tao (2016-2019), Currently: Associate Professor, Jilin University, China.
 * Puttha Sakkaplangkul (2017-2018), Currently: Assistant Professor, King Mongkuts Institute of Technology Ladkrabang, Thailand.
 * Xinghui Zhong (2012-2014), Currently: Special Term-Professor, Zhejiang University, China.
 
