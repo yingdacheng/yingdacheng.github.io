@@ -125,7 +125,7 @@ Journal Publications
 
 46. J. Huang, Y. Liu, W. Guo, Z. Tao and Y. Cheng, An adaptive multiresolution interior penalty discontinuous Galerkin method for wave equations in second order form, Journal of Scientific Computing, to appear.
 
-47. Z. Tao, J. Huang, Y. Liu, W. Guo and Y. Cheng, An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations, Communications on Applied Mathematics and Computation (Special issue on discontinuous Galerkin methods), to appear.
+47. Z. Tao, J. Huang, Y. Liu, W. Guo and Y. Cheng, An adaptive multiresolution ultra-weak discontinuous Galerkin method for nonlinear Schrodinger equations, Communications on Applied Mathematics and Computation (Special issue on discontinuous Galerkin methods), to appear.
 
 48. Z. Peng, Y. Cheng, J.-M. Qiu and F. Li, Stability-enhanced AP IMEX1-LDG method: energy-based stability and rigorous AP property, SIAM Journal on Numerical Analysis, to appear.
 
