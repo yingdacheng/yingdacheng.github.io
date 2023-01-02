@@ -10,19 +10,21 @@ author_profile: true
 
 Courses
 ======
+* SS23: [CMSE201 Computational modeling and data analysis I.](https://cmse.msu.edu/cmse201) 
+* 
 * FS22: MTH 314 Matrix algebra with computational applications.
 
-* SS22: CMSE201-005  Computational modeling and data analysis I   
+* SS22: CMSE201  Computational modeling and data analysis I   
 
 * SS21: MTH 950 Numerical methods for partial differential equations I.    
 
 * FS20: 
-    - CMSE202-001 Computational modeling tools and techniques.
+    - CMSE202 Computational modeling tools and techniques.
     - MTH 451 Numerical analysis I.
 
 * FS19: 
     - MTH 340 Ordinary differential equations. 
-    - CMSE201-004 Introduction to computational modeling and data analysis.
+    - CMSE201 Introduction to computational modeling and data analysis.
 
 * SS19: CMSE 890-001 Fluid-based simulation methods.
 
