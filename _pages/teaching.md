@@ -11,7 +11,7 @@ author_profile: true
 Courses
 ======
 * SS23: [CMSE201 Computational modeling and data analysis I.](https://cmse.msu.edu/cmse201) 
-* 
+ 
 * FS22: MTH 314 Matrix algebra with computational applications.
 
 * SS22: CMSE201  Computational modeling and data analysis I   
