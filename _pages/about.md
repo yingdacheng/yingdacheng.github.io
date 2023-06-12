@@ -18,7 +18,7 @@ My area of research is scientific computing, applied mathematics and data-driven
 
 
 
-# Awards and news
+# Awards and News
 * [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023. 
 * Simons Fellow in Mathematics, 2018.
 * NSF CAREER Award, 2015.
@@ -26,9 +26,10 @@ My area of research is scientific computing, applied mathematics and data-driven
 
 # Contact information
 
-Office: D316 Wells Hall  
-Phone: 517-353-4671  
-Email: ycheng at msu.edu (preferred way of contact)
+Email: yingda at vt.edu
+
+Office (MSU): D316 Wells Hall  
+Email (MSU) : ycheng at msu.edu 
 
 Mailing address:\
 Department of Mathematics\
