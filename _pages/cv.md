@@ -20,7 +20,8 @@ Education
 
 Work experience
 ======
-* Professor, Department of Mathematics and Department of Computational Mathematics, Science and Engineering, Michigan State University, 2021-.
+* Professor, Department of Mathematics and Affliated Faculty with CMDA program, Virginia Tech, 2023-.
+* Professor, Department of Mathematics and Department of Computational Mathematics, Science and Engineering, Michigan State University, 2021- (on leave, Aug. 2023).
 * Associate Professor,  Department of Computational Mathematics, Science and Engineering,  Michigan State University, 2017-2021.
 * Associate Professor,  Department of Mathematics, Michigan State University, 2016-2021.
 * Assistant Professor, Department of Mathematics, Michigan State University, 2011-2016.
@@ -32,12 +33,12 @@ Awards and grants
 Current
 
 * Co-PI, DOE MMICC [CHaRMNET](https://charmnet-mmicc.github.io/) , 2022-2027.
-* Co-PI, NSF DGE-2152014, Harnessing the data revolution to enable predictive multi-scale modeling across STEM, 2022-2027.
 * PI, NSF DMS-2011838, Development of adaptive sparse grid discontinuous Galerkin methods for multiscale kinetic simulations in plasmas, 2020-2023.
-* Co-PI, NSF AST-2008004, A data-driven approach to multiscale methods for scalable transport in neutron star mergers and complex plasmas, 2020-2023.
+
 
 Completed
-
+* Co-PI, NSF DGE-2152014, Harnessing the data revolution to enable predictive multi-scale modeling across STEM, 2022-2023.
+* Co-PI, NSF AST-2008004, A data-driven approach to multiscale methods for scalable transport in neutron star mergers and complex plasmas, 2020-2023.
 * **Simons Fellow**, 2018.
 * PI, NSF DMS-1720023, 2017-2020.
 * PI, **NSF CAREER Award** (DMS-1453661), 2015-2020.
