@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hello, I am currently a professor at [Department of Mathematics](https://math.vt.edu/) and an affliated faculty with [CMDA (Computational Modeling and Data Analytics) program](https://data.science.vt.edu/programs/cmda.html), Virginia Tech. I am on leave from [Department of Mathematics](https://math.msu.edu/) and [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu/), Michigan State University since August 2023.
+Hello, I am currently a professor at [Department of Mathematics](https://math.vt.edu/) and an affliated faculty with [CMDA (Computational Modeling and Data Analytics) program](https://data.science.vt.edu/programs/cmda.html), Virginia Tech. I am on leave from [Department of Mathematics](https://math.msu.edu/) and [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu/), Michigan State University since August 2023. 
 
 My area of research is scientific computing, applied mathematics and data-driven modeling and computation. We are interested in using modern data-driven, reduced order modeling and classical numerical analysis as tools to simulate highly complex and high dimensional multiscale phenonmena arising from science and engineering. 
 
@@ -18,13 +18,13 @@ My area of research is scientific computing, applied mathematics and data-driven
 
 
 
-## Awards
+# Awards and news
+* [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023. 
+* Simons Fellow in Mathematics, 2018.
+* NSF CAREER Award, 2015.
 
-* [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023.
 
-
-
-## Contact information
+# Contact information
 
 Office: D316 Wells Hall  
 Phone: 517-353-4671  
