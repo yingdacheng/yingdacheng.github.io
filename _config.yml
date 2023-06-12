@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yingda Cheng"
 title_separator          : "-"
 name                     : &name "Yingda Cheng"
-description              : &description "Professor at Michigan Staet University"
+description              : &description "Professor at Virginia Tech"
 url                      : https://yingdacheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yingdacheng.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yingda Cheng"
   avatar           : "IMG_8665.jpg"
-  bio              : "Professor at Michigan State University"
-  location         : "East Lansing, MI "
+  bio              : "Professor at Virginia Tech"
+  location         : "Blacksburg VA "
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=-Md94EYAAAAJ&hl=en"
-  email            : "ycheng@msu.edu"
+  email            : "yingda@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
