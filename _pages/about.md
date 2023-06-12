@@ -24,7 +24,8 @@ My area of research is scientific computing, applied mathematics and data-driven
 * NSF CAREER Award, 2015.
 
 
-\vspace{10cm}
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 # Contact information
 
