@@ -18,7 +18,9 @@ My area of research is scientific computing, applied mathematics and data-driven
 
 
 
+## Awards
 
+* [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023.
 
 
 
