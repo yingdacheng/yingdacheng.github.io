@@ -24,16 +24,16 @@ My area of research is scientific computing, applied mathematics and data-driven
 * NSF CAREER Award, 2015.
 
 
-
+\vspace{10cm}
 
 # Contact information
 
-Email: yingda at vt.edu
+Email (VT): yingda at vt.edu
 
 Office (MSU): D316 Wells Hall  
 Email (MSU) : ycheng at msu.edu 
 
-Mailing address:\
+Mailing address (MSU):\
 Department of Mathematics\
 Michigan State University\
 619 Red Cedar Rd.\
