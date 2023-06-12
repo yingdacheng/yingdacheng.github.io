@@ -16,7 +16,7 @@ My area of research is scientific computing, applied mathematics and data-driven
 
 *I am currently recruiting highly motivated Ph.D. students and postdocs to work on multiple projects in scientific computing and reduced order modeling and computations. Please send me an email if you are interested.*
 
-
+<p>&nbsp;</p>
 
 # Awards and News
 * [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023. 
@@ -25,7 +25,7 @@ My area of research is scientific computing, applied mathematics and data-driven
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 # Contact information
 
