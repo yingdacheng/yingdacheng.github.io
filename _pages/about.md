@@ -30,14 +30,9 @@ My area of research is scientific computing, applied mathematics and data-driven
 # Contact information
 
 Email (VT): yingda at vt.edu
-
-Office (MSU): D316 Wells Hall  
-Email (MSU) : ycheng at msu.edu 
-
-Mailing address (MSU):\
-Department of Mathematics\
-Michigan State University\
-619 Red Cedar Rd.\
-East Lansing, MI 48824
+Office (VT):\
+Data & Decisions Science Bldg, 410\
+Virginia Tech\
+Blacksburg, VA 24061
 
 
