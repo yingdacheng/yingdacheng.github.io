@@ -32,7 +32,7 @@ My area of research is scientific computing, applied mathematics and data-driven
 Email: yingda at vt.edu
 
 Address:\
-Department of Mathematics
+Department of Mathematics\
 Virginia Tech\
 Blacksburg, VA 24061
 
