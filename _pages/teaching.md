@@ -13,7 +13,7 @@ Courses
 * FS23: CMDA 3606 Math Modeling: Methods & Tools II.
 
 
-
+<p>&nbsp;</p>
 
 Previous Teaching at MSU
 ======
