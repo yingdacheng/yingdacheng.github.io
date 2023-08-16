@@ -10,16 +10,23 @@ author_profile: true
 
 Courses
 ======
-* SS23: [CMSE201 Computational modeling and data analysis I.](https://cmse.msu.edu/cmse201) 
+* FS23: CMDA 3606 Math Modeling: Methods & Tools II.
+
+
+
+
+Previous Teaching at MSU
+======
+* SS23: CMSE 201 Computational modeling and data analysis I.
  
 * FS22: MTH 314 Matrix algebra with computational applications.
 
-* SS22: CMSE201  Computational modeling and data analysis I   
+* SS22: CMSE 201  Computational modeling and data analysis I   
 
 * SS21: MTH 950 Numerical methods for partial differential equations I.    
 
 * FS20: 
-    - CMSE202 Computational modeling tools and techniques.
+    - CMSE 202 Computational modeling tools and techniques.
     - MTH 451 Numerical analysis I.
 
 * FS19: 
