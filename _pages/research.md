@@ -8,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
+<!---
 Research Interests
 ======
 Numerical analysis, scientific computing, data-driven modeling and computation
@@ -24,12 +25,15 @@ Numerical analysis, scientific computing, data-driven modeling and computation
 
 * Applications in plasma physics, semiconductor device simulations, astrophysics, etc.
 
+
+  
+  <br>
+  -->
   [Google scholar profile](https://scholar.google.com/citations?user=-Md94EYAAAAJ&hl=en)
   
   [Arxiv papers](https://arxiv.org/search/?query=yingda+cheng&searchtype=all&source=header)
-  
-  <br>
 
+  
 Journal Publications
 ======
 
