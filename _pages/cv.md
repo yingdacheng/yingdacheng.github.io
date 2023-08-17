@@ -63,7 +63,7 @@ Former Ph.D. students
 * Andres Galindo Olarte (Ph.D. 2023 MSU)
    * Thesis title: Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations and numerical analysis of a hybrid method for radiation transport 
    * First job after Ph.D.: Peter O’Donnell Jr. Postdoc Fellow, University of Texas at Austin.
-   * 
+    
 * Kai Huang (Ph.D. 2022 MSU)
    * Thesis title: Sparse grid discontinuous Galerkin methods for nonlinear optics and mathematical modeling of asynchronous data flow in parallel computers.
    * First job after Ph.D.: Synopsys, North Carolina.
@@ -77,7 +77,7 @@ Former Ph.D. students
    * First job after Ph.D.: Senior quantitative analyst, Ernst & Young LLP, New York City.
 
 Former postdocs
-* Zhichao Peng (2019-2023), Currently: Assistant Professor, Hong Kong University of Science and Technology.
+* Zhichao Peng (2020-2023), Currently: Assistant Professor, Hong Kong University of Science and Technology.
 * Juntao Huang (2018-2022), Currently: Assistant Professor, Texas Tech University.
 * Zhanjing Tao (2016-2019), Currently: Associate Professor, Jilin University, China.
 * Puttha Sakkaplangkul (2017-2018), Currently: Assistant Professor, King Mongkuts Institute of Technology Ladkrabang, Thailand.
