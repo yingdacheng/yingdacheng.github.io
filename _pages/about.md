@@ -34,6 +34,9 @@ Numerical analysis, scientific computing, data-driven modeling and computations.
 * [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023. 
 * [Simons Fellow in Mathematics](https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/?tab=awardees), 2018.
 * NSF CAREER Award, 2015.
+* ICES Postdoctoral Fellowship, the University of Texas at Austin, 2007-2009.
+* Joukowsky Dissertation Fellowship, Brown University, 2006.
+* Joukowsky Presidential Fellowship, Brown University, 2003.
 
 
 <p>&nbsp;</p>
