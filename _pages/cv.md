@@ -53,24 +53,28 @@ Completed
 Research Group
 ======
 Current members
-* [Zhichao Peng](https://zhichaopengmath.github.io/) (postdoc, 2020-)
-* [Andres Galindo Olarte](https://sites.google.com/site/andresgalindoolarte/home?authuser=0) (Ph.D. student, 2019-).
+* Tyson George (2023-).
 
 
 Former Ph.D. students
-* Kai Huang (Ph.D. 2022)
+* Andres Galindo Olarte (Ph.D. 2023 MSU)
+   * Thesis title: Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations and numerical analysis of a hybrid method for radiation transport 
+   * First job after Ph.D.: Peter O’Donnell Jr. Postdoc Fellow, University of Texas at Austin.
+   * 
+* Kai Huang (Ph.D. 2022 MSU)
    * Thesis title: Sparse grid discontinuous Galerkin methods for nonlinear optics and mathematical modeling of asynchronous data flow in parallel computers.
    * First job after Ph.D.: Synopsys, North Carolina.
 
-* Anqi Chen (Ph.D. 2019)
+* Anqi Chen (Ph.D. 2019 MSU)
    * Thesis title: On superconvergent discontinuous Galerkin methods for Schrodinger equations and sparse grid central discontinuous Galerkin method.
    * First job after Ph.D.: Cadence Design Systems, Austin, TX.
        
-* Zixuan Wang (Ph.D. 2015)
+* Zixuan Wang (Ph.D. 2015 MSU)
    * Thesis title: Discontinuous Galerkin methods for Hamilton-Jacobi equations and high-dimensional elliptic equations 
    * First job after Ph.D.: Senior quantitative analyst, Ernst & Young LLP, New York City.
 
 Former postdocs
+* Zhichao Peng (2019-2023), Currently: Assistant Professor, Hong Kong University of Science and Technology.
 * Juntao Huang (2018-2022), Currently: Assistant Professor, Texas Tech University.
 * Zhanjing Tao (2016-2019), Currently: Associate Professor, Jilin University, China.
 * Puttha Sakkaplangkul (2017-2018), Currently: Assistant Professor, King Mongkuts Institute of Technology Ladkrabang, Thailand.
