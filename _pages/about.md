@@ -18,7 +18,7 @@ My area of research is scientific computing, applied mathematics and data-driven
 
 <p>&nbsp;</p>
 
-Research interests
+Research Interests
 ======
 Numerical analysis, scientific computing, data-driven modeling and computations.
 * Numerical methods for differential equations.
