@@ -32,7 +32,7 @@ Numerical analysis, scientific computing, data-driven modeling and computations.
 
 # Awards and News
 * [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023. 
-* Simons Fellow in Mathematics, 2018.
+* [Simons Fellow in Mathematics](https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/?tab=awardees), 2018.
 * NSF CAREER Award, 2015.
 
 
