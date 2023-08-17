@@ -28,6 +28,7 @@ Work experience
 * Postdoc, University of Texas at Austin, 2007-2011.
     * Mentor: Professor [Irene M. Gamba](https://web.ma.utexas.edu/users/gamba/)
 
+<!---
 Awards and grants
 ======
 Current
@@ -47,6 +48,7 @@ Completed
 * PI, NSF DMS-1016001/1217563, 2010-2014.
 
 <br>
+-->
 
 Research Group
 ======
