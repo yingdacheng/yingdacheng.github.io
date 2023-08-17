@@ -42,7 +42,7 @@ Numerical analysis, scientific computing, data-driven modeling and computations.
 <p>&nbsp;</p>
 
 
-# Contact information
+# Contact Information
 
 Email: yingda at vt.edu
 
