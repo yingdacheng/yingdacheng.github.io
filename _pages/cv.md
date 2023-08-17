@@ -50,15 +50,6 @@ Completed
 <br>
 -->
 
-Research interests
-======
-Numerical analysis, scientific computing, data-driven modeling and computations.
-* Numerical methods for differential equations.
-* Discontinuous Galerkin finite element methods.
-* Numerical methods for kinetic systems, and applications in plasma physics and semiconductor device simulations.
-* Dimension reduction techniques, sparse grid methods.
-* Scientific machine learning.
-* Numerical schemes for Hamilton-Jacobi equations, nonlinear Maxwell equations.
 
   
 
