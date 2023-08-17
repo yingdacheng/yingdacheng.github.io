@@ -10,7 +10,7 @@ author_profile: true
 
 Mentoring and outreach activities for women in math
 ======
-* Member of WINASc: Women in Numerical Analysis and Scientific Computing.
+* Member of [WINASc: Women in Numerical Analysis and Scientific Computing](https://awm-math.org/research-networks/winasc/).
 
 * Speaker at ``Women in Applied Mathematics: Recent advances in modeling, numerical algorithms, and applications" at the 9th International Congress on Industrial and Applied Mathematics (ICIAM), July, 2019.
 
