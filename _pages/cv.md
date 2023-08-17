@@ -50,6 +50,13 @@ Completed
 <br>
 -->
 
+Research interests
+======
+Numerical analysis, scientific computing, data-driven modeling and computations.
+* Numerical methods for partial differential equations.
+
+  
+
 Research Group
 ======
 Current members
