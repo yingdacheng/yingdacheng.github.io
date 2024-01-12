@@ -32,7 +32,8 @@ Numerical analysis, scientific computing, data-driven modeling and computations.
 
 # Awards and News
 * [SIAM Germund Dahlquist Prize](https://www.siam.org/prizes-recognition/major-prizes-lectures/detail/germund-dahlquist-prize), 2023. [Prize Spotlight](https://sinews.siam.org/Details-Page/august-prize-spotlight#Cheng)
-* [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023. 
+* [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023.
+* I am proud to be part of the DOE MMICC center for novel numerical methods for fusion applications, [CHaRMNET - DOE funded MMICC center](https://charmnet-mmicc.github.io/).
 * [Simons Fellow in Mathematics](https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/?tab=awardees), 2018.
 * NSF CAREER Award, 2015.
 * ICES Postdoctoral Fellowship, the University of Texas at Austin, 2007-2009.
