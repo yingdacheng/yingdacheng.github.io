@@ -33,7 +33,7 @@ Numerical analysis, scientific computing, data-driven modeling and computation
 
 
 
-  [here](file/cv.pdf)
+  [here](files/cv.pdf)
   
 Journal Publications
 ======
