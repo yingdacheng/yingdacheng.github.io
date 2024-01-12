@@ -164,4 +164,11 @@ Software
 ======
 [Github package for adaptive sparse grid/multiresolution DG method](https://github.com/JuntaoHuang/adaptive-multiresolution-DG)
 
+ <br>
+
+External links
+======
+[CHaRMNET - DOE funded MMICC center](https://charmnet-mmicc.github.io/)
+
+
 
