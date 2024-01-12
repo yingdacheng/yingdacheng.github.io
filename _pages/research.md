@@ -27,7 +27,7 @@ Numerical analysis, scientific computing, data-driven modeling and computation
 
 -->
 
-Selected recent talks
+Selected Recent Talks
 ======
 
 
