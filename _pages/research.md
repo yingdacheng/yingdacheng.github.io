@@ -33,7 +33,7 @@ Selected recent talks
 
   [Overview of Sparse Grid DG](../files/midwest.pdf)
 
-  [Overview of Reduced Basis Method for Kinetic Transport](../files/mmicc_jan2024.pdf.pdf)
+  [Overview of Reduced Basis Method for Kinetic Transport](../files/mmicc_jan2024.pdf)
 
   [Overview of complexity reduction for kinetic equations](../files/kinetic_reduce.pdf)
 
