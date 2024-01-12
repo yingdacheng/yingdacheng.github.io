@@ -36,6 +36,8 @@ Selected recent talks
   [Overview of Reduced Basis Method for Kinetic Transport](../files/mmicc_jan2024.pdf.pdf)
 
   [Overview of complexity reduction for kinetic equations](../files/kinetic_reduce.pdf)
+
+  [Introduction to kinetic models and high dimensional scientific computing](../files/vt_ana.pdf)
   
 Journal Publications
 ======
