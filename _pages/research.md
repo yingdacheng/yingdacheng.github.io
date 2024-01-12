@@ -27,16 +27,23 @@ Numerical analysis, scientific computing, data-driven modeling and computation
 
 -->
 
+Selected recent talks
+======
+
+
+  [Overview of Sparse Grid DG](../files/midwest.pdf)
+
+  [Overview of Reduced Basis Method for Kinetic Transport](../files/mmicc_jan2024.pdf.pdf)
+
+  [Overview of complexity reduction for kinetic equations](../files/kinetic_reduce.pdf)
+  
+Journal Publications
+======
+
   [Google scholar profile](https://scholar.google.com/citations?user=-Md94EYAAAAJ&hl=en)
   
   [Arxiv papers](https://arxiv.org/search/?query=yingda+cheng&searchtype=all&source=header)
 
-
-
-  [here](../files/cv.pdf)
-  
-Journal Publications
-======
 
 1. Y. Cheng and C.-W. Shu, A discontinuous Galerkin finite element method for directly solving the Hamilton-Jacobi equations, Journal of Computational Physics, v223 (2007), pp.398-415.
 
