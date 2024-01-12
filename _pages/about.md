@@ -20,6 +20,7 @@ My area of research is scientific computing, applied mathematics and data-driven
 
 Research Interests
 ======
+
 Numerical analysis, scientific computing, data-driven modeling and computations.
 * Numerical methods for differential equations.
 * Discontinuous Galerkin finite element methods.
@@ -27,7 +28,8 @@ Numerical analysis, scientific computing, data-driven modeling and computations.
 * Dimension reduction techniques, sparse grid methods.
 * Scientific machine learning.
 * Numerical schemes for Hamilton-Jacobi equations, nonlinear Maxwell equations.
-
+  
+More details can be found on the [Research page](https://yingdacheng.github.io/research/).
 <p>&nbsp;</p>
 
 # Awards and News
