@@ -159,16 +159,17 @@ Journal Publications
 
 56. J. Huang, Y. Cheng, A. Christlieb, L. Roberts and W.-A. Yong, Machine learning moment closure models for the radiative transfer equation II: enforcing global hyperbolicity in gradient based closures, SIAM Journal on Multiscale Modeling and Simulation, to appear. 
 
+57. A. Galindo-Olarte, J. Huang, J. Ryan and Y. Cheng, Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations,  BIT Numerical Mathematics, 2023(63).
+
+58. J. Huang, W. Guo and Y. Cheng, Adaptive sparse grid discontinuous Galerkin method: review and software implementation, Communications on Applied Mathematics and Computation, 2023.
+
+59. Z. Peng, Y. Chen, Y. Cheng and F. Li, A micro-macro decomposed reduced basis method for the time-dependent radiative transfer equation, Multiscale Modeling and Simulation, to appear.
   <br>
 
 Preprints
 ======
 
-1. A. Galindo-Olarte, J. Huang, J. Ryan and Y. Cheng, Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations,   2022.
-
-2. J. Huang, W. Guo and Y. Cheng, Adaptive sparse grid discontinuous Galerkin method: review and software implementation, 2022.
-
-3. Z. Peng, Y. Chen, Y. Cheng and F. Li, A micro-macro decomposed reduced basis method for the time-dependent radiative transfer equation, 2022.
+1. D. Appelo and Y. Cheng, Robust implicit adaptive low rank time-stepping methods for matrix differential equations, 2024.
 
   <br>
 
