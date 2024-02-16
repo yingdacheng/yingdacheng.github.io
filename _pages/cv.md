@@ -56,7 +56,8 @@ Completed
 Research Group
 ======
 Current members
-* Tyson George (2023-).
+* Postdoc, Shixu Meng (2024-).
+* Student: Tyson George (2023-).
 
 
 Former Ph.D. students
