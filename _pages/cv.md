@@ -29,7 +29,6 @@ Work experience
     * Mentor: Professor [Irene M. Gamba](https://web.ma.utexas.edu/users/gamba/)
 
 
-======
 
 
   
