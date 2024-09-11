@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hello, I am a professor at [Department of Mathematics](https://math.vt.edu/) and an affliated faculty with [CMDA (Computational Modeling and Data Analytics) program](https://data.science.vt.edu/programs/cmda.html), Virginia Tech. I am on leave from  Michigan State University since August 2023. 
+Hello, I am a professor at [Department of Mathematics](https://math.vt.edu/) and an affliated faculty with [CMDA (Computational Modeling and Data Analytics) program](https://data.science.vt.edu/programs/cmda.html), Virginia Tech.
 
 My area of research is scientific computing, applied mathematics and data-driven modeling and computation. We are interested in using modern data-driven, reduced order modeling and classical numerical analysis as tools to simulate highly complex and high dimensional multiscale phenonmena arising from science and engineering. I received my B.S. degree from University of Science and Technology of China in 2003 and Ph.D. degree in Applied Mathematics from Brown University in 2007. After a postdoctoral position at the University of Texas at Austin, I was a faculty member at Michigan State University (2011-) before the recent move to Virginia Tech. 
 
