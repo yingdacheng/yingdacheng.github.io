@@ -28,8 +28,7 @@ Work experience
 * Postdoc, University of Texas at Austin, 2007-2011.
     * Mentor: Professor [Irene M. Gamba](https://web.ma.utexas.edu/users/gamba/)
 
-<!---
-Awards and grants
+
 ======
 
 
