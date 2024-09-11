@@ -10,8 +10,11 @@ author_profile: true
 
 Courses
 ======
-* FS23: CMDA 3606 Math Modeling: Methods & Tools II.
+* FS24: CMDA 3606 Math Modeling: Methods & Tools I.
         All course materials can be found on [Canvas](https://canvas.vt.edu/)
+  
+* FS23: CMDA 3606 Math Modeling: Methods & Tools II.
+
 
 
 <p>&nbsp;</p>
