@@ -30,6 +30,7 @@ Numerical analysis, scientific computing, data-driven modeling and computation
 Selected Recent Talks
 ======
 
+  [Structure-preserving low rank solver for Lindblad Master equation](../files/lind.pdf)
 
   [Overview of Sparse Grid DG](../files/midwest.pdf)
 
