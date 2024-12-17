@@ -34,7 +34,7 @@ Selected Recent Talks
 
   [Structure-preserving low rank solver for Lindblad Master equation](../files/lind.pdf)
 
-  [Overview of Sparse Grid DG](../files/midwest.pdf)
+  [Overview of Sparse Grid DG](../files/dp.pdf)
 
   [Overview of Reduced Basis Method for Kinetic Transport](../files/mmicc_jan2024.pdf)
 
