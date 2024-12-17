@@ -43,6 +43,8 @@ Selected Recent Talks
 Journal Publications
 ======
 
+Most up-to-date information can be found at
+
   [Google scholar profile](https://scholar.google.com/citations?user=-Md94EYAAAAJ&hl=en)
   
   [Arxiv papers](https://arxiv.org/search/?query=yingda+cheng&searchtype=all&source=header)
@@ -167,12 +169,7 @@ Journal Publications
 59. Z. Peng, Y. Chen, Y. Cheng and F. Li, A micro-macro decomposed reduced basis method for the time-dependent radiative transfer equation, Multiscale Modeling and Simulation, to appear.
   <br>
 
-Preprints
-======
 
-1. D. Appelo and Y. Cheng, Robust implicit adaptive low rank time-stepping methods for matrix differential equations, 2024.
-
-  <br>
 
 Software
 ======
