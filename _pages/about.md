@@ -33,6 +33,7 @@ More details can be found on the [Research page](https://yingdacheng.github.io/r
 <p>&nbsp;</p>
 
 # Awards and News
+* Chern Professor, [SLMath Fall 2025 program](https://www.slmath.org/programs/357).
 * [SIAM Germund Dahlquist Prize](https://www.siam.org/prizes-recognition/major-prizes-lectures/detail/germund-dahlquist-prize), 2023. [Prize Spotlight](https://sinews.siam.org/Details-Page/august-prize-spotlight#Cheng)
 * [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023.
 * I am proud to be part of the DOE MMICC center for novel numerical methods for fusion applications, [CHaRMNET - DOE funded MMICC center](https://charmnet-mmicc.github.io/).
