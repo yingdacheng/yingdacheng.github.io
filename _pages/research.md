@@ -29,6 +29,7 @@ Numerical analysis, scientific computing, data-driven modeling and computation
 
 Selected Recent Talks
 ======
+  [lrAA: low-rank Anderson acceleration](../files/SIAM_SEAS.pdf)
 
   [A preconditioner for low rank GMRES](../files/lrgmres.pdf)
 
