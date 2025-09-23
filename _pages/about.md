@@ -14,7 +14,7 @@ Hello, I am a professor at [Department of Mathematics](https://math.vt.edu/) and
 
 My area of research is scientific computing, applied mathematics and data-driven modeling and computation. We are interested in using modern data-driven, reduced order modeling and classical numerical analysis as tools to simulate highly complex and high dimensional multiscale phenonmena arising from science and engineering. I received my B.S. degree from University of Science and Technology of China in 2003 and Ph.D. degree in Applied Mathematics from Brown University in 2007. After a postdoctoral position at the University of Texas at Austin, I was a faculty member at Michigan State University (2011-) before the recent move to Virginia Tech. 
 
-*I am currently recruiting highly motivated Ph.D. students and postdocs to work on multiple projects in scientific computing and reduced order modeling and computations. Please send me an email if you are interested.*
+*I am currently recruiting highly motivated Ph.D. students and postdocs. One postdoc opening is immediately available athttps://careers.pageuppeople.com/968/cw/en-us/job/534113/postdoctoral-associate *
 
 <p>&nbsp;</p>
 
