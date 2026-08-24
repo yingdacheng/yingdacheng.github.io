@@ -10,6 +10,8 @@ author_profile: true
 
 Courses
 ======
+* FS26: CMDA 3606 Math Modeling: Methods & Tools II.
+
 * SS25: MATH 5554 Approximation Theory.
         All course materials can be found on [Canvas](https://canvas.vt.edu/)
   

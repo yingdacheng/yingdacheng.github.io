@@ -36,11 +36,14 @@ Work experience
 Research Group
 ======
 Current members
-* Postdoc: Shixu Meng (2024-), Jiuhua Hu (2024-).
-* Student: Tyson George (2023-), Hengyi Shi (2024-).
+* Postdoc: Kun Huang (2025-).
+* Student: Hengyi Shi (2024-).
 
 
 Former Ph.D. students
+* Kaiwen Fu (2025-2026)
+   * Advised as a first-year Ph.D. student on low-rank matrix approximation.
+
 * Andres Galindo Olarte (Ph.D. 2023 MSU)
    * Thesis title: Superconvergence and accuracy enhancement of discontinuous Galerkin solutions for Vlasov-Maxwell equations and numerical analysis of a hybrid method for radiation transport 
    * First job after Ph.D.: Peter O’Donnell Jr. Postdoc Fellow, University of Texas at Austin.
@@ -58,11 +61,19 @@ Former Ph.D. students
    * First job after Ph.D.: Senior quantitative analyst, Ernst & Young LLP, New York City.
 
 Former postdocs
+* Jiuhua Hu (2024-2026), Main advisor: Daniel Appelö.
+* Shixu Meng (2024-2025), Currently: Assistant Professor, University of Texas at Dallas.
 * Zhichao Peng (2020-2023), Currently: Assistant Professor, Hong Kong University of Science and Technology.
-* Juntao Huang (2018-2022), Currently: Assistant Professor, Texas Tech University.
+* Juntao Huang (2018-2022), Currently: Assistant Professor, University of Delaware.
 * Zhanjing Tao (2016-2019), Currently: Associate Professor, Jilin University, China.
 * Puttha Sakkaplangkul (2017-2018), Currently: Assistant Professor, King Mongkuts Institute of Technology Ladkrabang, Thailand.
 * Xinghui Zhong (2012-2014), Currently: Special Term-Professor, Zhejiang University, China.
+
+Former M.Sc. students
+* Tyson George (2023-2024), Project: Physics informed neural network with reduced basis method.
+* Jing Huang (Visiting Master student, Chongqing University, China), Fall 2016, Project: Interior penalty discontinuous Galerkin method for wave equation.
+* Jingyun Fan, Conrad Blom, Tong Mu (Spring 2015), Industrial math project: Using risk analysis in the control of medicine quality in limited-resource countries.
+* Conrad Blom, Tong Mu, Xiaodan Liu (Spring 2016), Industrial math project: Improving medicines quality prediction in limited-resource countries.
 
 Supervised undergraduate students
 * Mingxiu Sui (Fall 2014), Ying Lu (Spring 2015), Zhaoyang Fu, Brad Yurgens (Spring 2016).
