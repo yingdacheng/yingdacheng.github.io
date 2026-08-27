@@ -12,7 +12,7 @@ redirect_from:
 
 Hello, I am a professor at [Department of Mathematics](https://math.vt.edu/) and an affliated faculty with [CMDA (Computational Modeling and Data Analytics) program](https://data.science.vt.edu/programs/cmda.html), Virginia Tech.
 
-My area of research is scientific computing, applied mathematics and data-driven modeling and computation. We are interested in using modern data-driven, reduced order modeling and classical numerical analysis as tools to simulate highly complex and high dimensional multiscale phenonmena arising from science and engineering. I received my B.S. degree from University of Science and Technology of China in 2003 and Ph.D. degree in Applied Mathematics from Brown University in 2007. After a postdoctoral position at the University of Texas at Austin, I was a faculty member at Michigan State University (2011-) before the recent move to Virginia Tech. 
+My area of research is scientific computing, applied mathematics and data-driven modeling and computation. We are interested in using modern data-driven, reduced order modeling and classical numerical analysis as tools to simulate highly complex and high dimensional multiscale phenonmena arising from science and engineering. I received my B.S. degree from University of Science and Technology of China in 2003 and Ph.D. degree in Applied Mathematics from Brown University in 2007. After a postdoctoral position at the University of Texas at Austin, I was a faculty member at Michigan State University (2011-2024) before moving to Virginia Tech. I will be joining the Department of Mathematics at Simon Fraser University as the Eddie Goldenberg Research Chair of Canada and Professor of Mathematics in January 2027. 
 
 <p>&nbsp;</p>
 
@@ -31,6 +31,7 @@ More details can be found on the [Research page](https://yingdacheng.github.io/r
 <p>&nbsp;</p>
 
 # Awards and News
+* [Eddie Goldenberg Research Chair of Canada in Advanced Digital Technologies for Fusion Energy](https://www.canada.ca/en/research-chairs/news/2026/08/government-of-canada-announces-results-for-intake-1-of-the-eddie-goldenberg-research-chairs-of-canada-and-canada-impact-emerging-leaders.html), Simon Fraser University, 2026. [SFU News story](https://www.sfu.ca/sfunews/stories/2026/08/sfu-recruits-world-leading-researcher-to-accelerate-advanced-com.html)
 * Chern Professor, [SLMath Fall 2025 program](https://www.slmath.org/programs/357).
 * [SIAM Germund Dahlquist Prize](https://www.siam.org/prizes-recognition/major-prizes-lectures/detail/germund-dahlquist-prize), 2023. [Prize Spotlight](https://sinews.siam.org/Details-Page/august-prize-spotlight#Cheng)
 * [Knut and Alice Wallenberg Foundation Visiting Professor (Program for Mathematics)](https://kaw.wallenberg.org/en/yingda-cheng), 2023.
