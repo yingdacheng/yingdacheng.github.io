@@ -18,11 +18,11 @@ My area of research is scientific computing, applied mathematics and data-driven
 
 # Open Positions
 
-**Two postdoctoral fellowships at Simon Fraser University** are available under my supervision jointly with Prof. Daniel Appelo, in the [Department of Mathematics](https://www.sfu.ca/math.html), Burnaby, BC. Priority research areas: scientific machine learning; advanced numerical methods for PDEs and kinetic equations; plasma physics and fusion energy; quantum device simulation; and high-performance/GPU computing.
+**Two postdoctoral fellowships at Simon Fraser University**, jointly with Prof. Daniel Appelo — see [MathJobs #28865](https://www.mathjobs.org/jobs/list/28865) for details. Review of applications begins December 1, 2026.
 
-The appointment is for two years, renewable for a third, with a flexible start date between January 1 and September 1, 2027. Review of applications begins **December 1, 2026**. Full details and application instructions are on [MathJobs (posting #28865)](https://www.mathjobs.org/jobs/list/28865).
+I am also **recruiting graduate students** at SFU; see the [prospective graduate students page](https://www.sfu.ca/math/graduate/prospective.html).
 
-I am also **recruiting graduate students** to join my group at Simon Fraser University. Prospective students should apply through the Department of Mathematics — see the [prospective graduate students page](https://www.sfu.ca/math/graduate/prospective.html) for program information, admission requirements and deadlines. Feel free to email me if my research interests match yours.
+Send me an email if you are interested.
 
 <p>&nbsp;</p>
 
