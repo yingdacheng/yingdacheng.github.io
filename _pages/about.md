@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hello, I am the Eddie Goldenberg Research Chair of Canada and Professor of Mathematics at the [Department of Mathematics](https://www.sfu.ca/math.html), Simon Fraser University.
+Hello, I am the Eddie Goldenberg Research Chair of Canada and Professor of Mathematics at the [Department of Mathematics](https://www.sfu.ca/math.html), Simon Fraser University, with the appointment effective January 2027.
 
 My area of research is scientific computing, applied mathematics and data-driven modeling and computation. We are interested in using modern data-driven, reduced order modeling and classical numerical analysis as tools to simulate highly complex and high dimensional multiscale phenonmena arising from science and engineering. I received my B.S. degree from University of Science and Technology of China in 2003 and Ph.D. degree in Applied Mathematics from Brown University in 2007. After a postdoctoral position at the University of Texas at Austin, I was a faculty member at Michigan State University (2011-2024) and Virginia Tech before joining Simon Fraser University.
 
