@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Professor, Department of Mathematics, Simon Fraser University, 2027-.
+* Eddie Goldenberg Research Chair of Canada and Professor, Department of Mathematics, Simon Fraser University, 2027-.
 * Professor, Department of Mathematics and Affliated Faculty with CMDA program, Virginia Tech, 2023-2026.
 * Professor, Department of Mathematics and Department of Computational Mathematics, Science and Engineering, Michigan State University, 2021- 2024.
 * Associate Professor,  Department of Computational Mathematics, Science and Engineering,  Michigan State University, 2017-2021.
