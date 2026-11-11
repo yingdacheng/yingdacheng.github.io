@@ -12,8 +12,9 @@ Previous Teaching at Virginia Tech
 ======
 * FS26: CMDA 3606 Math Modeling: Methods & Tools II.
 
+* SS26: MATH 5554 Approximation Theory.
+
 * SS25: MATH 5554 Approximation Theory.
-        All course materials can be found on [Canvas](https://canvas.vt.edu/)
   
 * FS24: CMDA 3605 Math Modeling: Methods & Tools I.
   
