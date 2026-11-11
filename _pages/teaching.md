@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Courses
+Previous Teaching at Virginia Tech
 ======
 * FS26: CMDA 3606 Math Modeling: Methods & Tools II.
 

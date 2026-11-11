@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-Personal academic homepage for Yingda Cheng (Professor at Virginia Tech), built with Jekyll on the
+Personal academic homepage for Yingda Cheng (Professor at Simon Fraser University), built with Jekyll on the
 **academicpages** template (a fork of Minimal Mistakes). This repo *is* `yingdacheng.github.io` — GitHub
 Pages builds and deploys it automatically on every push to `master`. There is no CI, no separate build/deploy
 step, no test suite, and no linter/formatter configured.
