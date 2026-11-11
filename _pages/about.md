@@ -58,7 +58,7 @@ More details can be found on the [Research page](https://yingdacheng.github.io/r
 
 # Contact Information
 
-Email: yingda at vt.edu
+Email: yingda_cheng at sfu.ca
 
 Address:\
 Department of Mathematics\
